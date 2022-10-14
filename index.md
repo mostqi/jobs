@@ -9,5 +9,5 @@
 - **Machine Learning**: Para se candidatar, preencha o nosso [Formulário de pré-seleção](https://forms.gle/Hp3Rf1JLrVxZLW2L7) e acesse aqui o [Desafio Machine Learning](https://github.com/mostqi/desafios-ml)
 - **NLP – Natural Language Processing**: Para se candidatar, preencha o nosso [Formulário de pré-seleção](https://forms.gle/9ykgLgK7BtkNHmyJ6) e acesse aqui o [Dasafio NLP – Natural Language Processing](https://github.com/mostqi/desafios-nlp)
 - **Site Reliability Engineer / AWS Solutions Architect**: Para se candidatar, preencha o nosso [Formulário de pré-seleção](https://forms.gle/Nw8jVJUZY5kiRRKF7) e acesse aqui o [Desafio Site Reliability Engineer/AWS Solutions Architect](https://github.com/mostqi/desafios-infra)
-- **Software Tester**: Para se candidatar, preencha o nosso [Formulário de pré-seleção](https://forms.gle/9ykgLgK7BtkNHmyJ6) e acesse aqui o [Desafio Software Tester](https://github.com/mostqi/desafios-testes)
+- **Software Tester**: Para se candidatar, preencha o nosso [Formulário de pré-seleção](https://forms.gle/s8V6C31CDxZSaeX78) e acesse aqui o [Desafio Software Tester](https://github.com/mostqi/desafios-testes)
 
