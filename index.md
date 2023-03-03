@@ -2,6 +2,7 @@
 
 ## Desafios
 
+- **Analista Documental**: Para se candidatar, preencha o nosso [Formulário de pré-seleção](https://forms.gle/p9Krc3Yykaesf6Nz8). O desafio está em fase de elaboração. Por favor, aguarde contato do RH.
 - **Computer and Information Research Scientist**: Para se candidatar, preencha o nosso [Formulário de pré-seleção](https://forms.gle/C54GtVs95hTv1mZU9) e acesse aqui o [Desafio Computer and Information Research Scientist](https://github.com/mostqi/desafios-analytical)
 - **Front-End**: Para se candidatar, preencha o nosso [Formulário de pré-seleção](https://forms.gle/aQmLYRyXa4NPJBFA8) e acesse aqui o [Desafio Front-End](https://github.com/mostqi/desafios-frontend)  
 - **Full Stack RPA**: Para se candidatar, preencha o nosso [Formulário de pré-seleção](https://forms.gle/uEwouDrgVRRfZy9y8) e acesse aqui o [Dasafio Full Stack RPA](https://github.com/mostqi/desafios-fullstack-rpa)
