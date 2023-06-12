@@ -8,6 +8,7 @@
 - **Full Stack RPA**: Para se candidatar, preencha o nosso [Formulário de pré-seleção](https://forms.gle/uEwouDrgVRRfZy9y8) e acesse aqui o [Dasafio Full Stack RPA](https://github.com/mostqi/desafios-fullstack-rpa)
 - **Full Stack**: Para se candidatar, preencha o nosso [Formulário de pré-seleção](https://forms.gle/JDGMRyKXoyv2w4pNA) e acesse aqui o [Desafio Full Stack](https://github.com/mostqi/desafios-fullstack) 
 - **Machine Learning**: Para se candidatar, preencha o nosso [Formulário de pré-seleção](https://forms.gle/Hp3Rf1JLrVxZLW2L7) e acesse aqui o [Desafio Machine Learning](https://github.com/mostqi/desafios-ml)
+- **Estágio MLOps Engineer**: Para se candidatar, preencha o nosso [Formulário de pré-seleção](https://forms.gle/jg29eXz9KDLQuJeq5) e acesse aqui o [Desafio MLOps Engineer](https://github.com/mostqi/desafios-mlops) 
 - **MLOps Engineer**: Para se candidatar, preencha o nosso [Formulário de pré-seleção](https://forms.gle/hGJEW3uPfMBR4URX7) e acesse aqui o [Desafio MLOps Engineer](https://github.com/mostqi/desafios-mlops) 
 - **NLP – Natural Language Processing**: Para se candidatar, preencha o nosso [Formulário de pré-seleção](https://forms.gle/9ykgLgK7BtkNHmyJ6) e acesse aqui o [Dasafio NLP – Natural Language Processing](https://github.com/mostqi/desafios-nlp)
 - **Site Reliability Engineer / AWS Solutions Architect**: Para se candidatar, preencha o nosso [Formulário de pré-seleção](https://forms.gle/Nw8jVJUZY5kiRRKF7) e acesse aqui o [Desafio Site Reliability Engineer/AWS Solutions Architect](https://github.com/mostqi/desafios-infra)
